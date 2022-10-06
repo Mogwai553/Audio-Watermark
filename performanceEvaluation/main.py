@@ -1,3 +1,4 @@
+# Зубов Владислав 06.10.2022
 # -*- coding: utf-8 -*-
 import tkinter as tk
 from tkinter import filedialog
